@@ -9,4 +9,4 @@ https://www.kaggle.com/datasets/shlokraval/ppe-dataset-yolov8
 
 https://www.kaggle.com/datasets/shlokraval/ppe-dataset
 
-####위의 데이터셋을 압축하여 구글드라이브에 옮기고, 구글드라이브에 올려진 압축 폴더를 코랩에 불러오는 형식으로 사용
+#### 위의 데이터셋을 압축하여 구글드라이브에 옮기고, 구글드라이브에 올려진 압축 폴더를 코랩에 불러오는 형식으로 사용
