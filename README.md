@@ -9,8 +9,14 @@ https://www.kaggle.com/datasets/shlokraval/ppe-dataset
 
 #### 위의 데이터셋을 압축하여 구글드라이브에 옮기고, 구글드라이브에 올려진 압축 폴더를 코랩에 불러오는 형식으로 사용
 
-https://drive.google.com/file/d/1yaheXiDUbukE-iPZ7UjNdRBI23Y9uX83/view?usp=drive_link
+https://drive.google.com/file/d/1B93Q2T2F0U0whih8O27GiihttyFDNJbF/view?usp=drive_link
 
 ## 2. Basemodel
 
-#### ResNet50(CNN with Transfer Learning)
+#### MobileNetV2(CNN with Transfer Learning)
+
+## 3. Source code
+
+https://colab.research.google.com/drive/1AivxJuuSIt-dNzG2yPWsQ9uJ6JjMzNco#scrollTo=18b10f8e
+
+or github file
